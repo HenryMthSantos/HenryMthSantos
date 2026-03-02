@@ -1,4 +1,7 @@
-## Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de dados e Business Intelligence.Estou em busca de uma oportunidade como Estagiário ou Analista Júnior na área de Dados , onde eu possa aplicar conhecimentos técnicos para gerar insights e apoiar a tomada de decisões estratégicas.
+## Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados e Business Intelligence.
+Possuo experiência prática com Python, SQL e ferramentas de visualização, aplicando análise exploratória, manipulação de dados com Pandas e criação de dashboards estratégicos.
+Tenho interesse em transformar dados em insights que apoiem decisões de negócio e gerem impacto real.
+Atualmente busco oportunidade como Estagiário ou Analista de Dados Júnior para evoluir tecnicamente e contribuir com soluções orientadas a dados.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
