@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudante de Análise e Desenvolvimento de Sistemas com em Análise de dados e Business Intelligence.Estou em busca de uma oportunidade como Estagiário ou Analista Júnior na área de Dados.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
