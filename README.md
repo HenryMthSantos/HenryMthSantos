@@ -1,7 +1,14 @@
-## Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados e Business Intelligence.
-Possuo experiência prática com Python, SQL e ferramentas de visualização, aplicando análise exploratória, manipulação de dados com Pandas e criação de dashboards estratégicos.
-Tenho interesse em transformar dados em insights que apoiem decisões de negócio e gerem impacto real.
-Atualmente busco oportunidade como Estagiário ou Analista de Dados Júnior para evoluir tecnicamente e contribuir com soluções orientadas a dados.
+# Analista de BI | Análise de Dados e Business Intelligence
+
+Estudante de Análise e Desenvolvimento de Sistemas e atualmente Analista de BI na **IPNET**. Tenho experiência prática com Python, SQL e ferramentas de visualização, aplicando análise exploratória, manipulação de dados com Pandas e criação de dashboards estratégicos. Gosto de transformar dados em insights que apoiem decisões de negócio e gerem impacto real.
+
+## Certificações e cursos
+- Cloud Digital Leader (Google Cloud)
+- Cloud Data Engineer (Google Cloud )
+- Análise de Dados (Senac)
+- SQL com BigQuery (Udemy)
+- Looker Studio (Udemy)
+- Power BI (DSA)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
